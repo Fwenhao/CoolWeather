@@ -18,6 +18,6 @@
         android:layout_alignParentRight="true"
         android:layout_centerVertical="true"
         android:layout_margin="10dp"
-        android:textColor="#fff"
-        android:textSize="16sp" />
+        android:textSize="16sp"
+        android:textColor="#fff" />
 </RelativeLayout>
